@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Leonardo-Alvarenga !
 - 👀 I’m interested in work.
-- 🌱 I’m currently learning Computer Science and Eletrical Engeneering.
-- 💞️ I’m looking to collaborate on Research on Vehicular Networks.
-- 📫 How to reach me for my mail: leonardo.alvarengalopes@gmail.com
+- 🌱 I’m currently learning Computer Science (Machine Learning) and Eletrical Engeneering (Eletromagnetic Compatibility).
+- 💞️ I’m looking to collaborate on Research on Vehicular Networks and NLP/ML Projects.
+- 📫 How to reach me for my mail: leonardo.alvarenga1975@gmail.com
 
 <!---
 Leonardo-Alvarenga/Leonardo-Alvarenga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
